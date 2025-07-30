@@ -20,5 +20,4 @@ Check out my blogs: [Medium - @ayoubelmaalmi](https://medium.com/@ayoubelmaalmi)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmaalmia&show_icons=true&locale=en&layout=compact" alt="elmaalmia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmaalmia&" alt="elmaalmia" /></p>
 
