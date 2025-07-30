@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ayoub El Maalmi</h1>
-<h3 align="center">Java Backend Developer, currently a Research Assistant at Oracle. Designs high-performance REST APIs and automates deployments using Jenkins. Specialized in microservices and cloud solutions, he turns technical complexity into simple solutions that accelerate product time-to-market.</h3>
+<h1 align="center">Hi 👋, I'm Ayoub El Maalmi</h1> 
+<h3 align="center">Java Backend Developer, currently a Research Assistant at Oracle. I design high-performance REST APIs and automate deployments using Jenkins. Specialized in microservices and cloud solutions, I turn technical complexity into simple solutions that accelerate product time-to-market.</h3>  
 
-- 🔭 I’m currently working on **Research Assistant at Oracle**
+- 🔭 I’m currently working as a **Research Assistant at Oracle**  
+- 📫 How to reach me: **elmaalmiayoub@gmail.com**  
 
-- 📫 How to reach me **elmaalmiayoub@gmail.com**
+### Blog posts
+Check out my blogs: [Medium - @ayoubelmaalmi](https://medium.com/@ayoubelmaalmi)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayoub el maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el maalmi" height="30" width="40" /></a>
-<a href="https://medium.com/@ayoubelmaalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayoubelmaalmi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayoub el maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayoub el maalmi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayoub el maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayoub el maalmi" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
+  <a href="https://linkedin.com/in/ayoub-el-maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el maalmi" height="30" width="40" /></a> 
+  <a href="https://medium.com/@ayoubelmaalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayoubelmaalmi" height="30" width="40" /></a> 
+  <a href="https://www.hackerrank.com/ayoub-el-maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayoub el maalmi" height="30" width="40" /></a> 
+  <a href="https://www.leetcode.com/ayoub-el-maalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayoub el maalmi" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
