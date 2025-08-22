@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Maalmi</h1> 
-<h3 align="center">Java Backend Developer, currently a Research Assistant at Oracle. I design high-performance REST APIs and automate deployments using Jenkins. Specialized in microservices and cloud solutions, I turn technical complexity into simple solutions that accelerate product time-to-market.</h3>  
+<h3 align="center">Java Backend Developer, I turn technical complexity into simple solutions that accelerate product time-to-market.</h3>  
 
 - 🔭 I’m currently working as a **Research Assistant at Oracle**  
 - 📫 How to reach me: **elmaalmiayoub@gmail.com**  
