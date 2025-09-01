@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Ayoub El Maalmi
 
-## Java Fullstack Developer | Research Assistant at Oracle
+## Java Fullstack Developer
 
 ---
 
 ### 🚀 About Me
 
-Currently working as a **Research Assistant at Oracle**. I build full-stack applications and enjoy solving complex problems with clean, efficient code.
+Currently working as a Research Assistant at Oracle, where I develop full-stack applications and explore innovative solutions across the entire software development lifecycle. 
+I'm passionate about creating seamless user experiences backed by robust, scalable systems - from responsive frontends to high-performance backend APIs.
 
 ### 🔧 Technologies
 
