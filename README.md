@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Ayoub El Maalmi
 
-## Java Fullstack Developer
+## Java Fullstack Developer | Research Assistant at Oracle
 
 ---
 
 ### 🚀 About Me
 
-Currently working as a Research Assistant at Oracle, where I develop full-stack applications and explore innovative solutions across the entire software development lifecycle. 
-I'm passionate about creating seamless user experiences backed by robust, scalable systems - from responsive frontends to high-performance backend APIs.
+Currently working as a **Research Assistant at Oracle**. I build full-stack applications and enjoy solving complex problems with clean, efficient code.
 
 ### 🔧 Technologies
 
@@ -18,11 +17,13 @@ I'm passionate about creating seamless user experiences backed by robust, scalab
 
 ### 📝 Writing
 
-I write technical articles on [Medium @ayoubelmaalmi](https://medium.com/@ayoubelmaalmi) about:
-- Java development
-- System architecture
-- Big data processing
-- Docker & containerization
+I write technical articles on [Medium @ayoubelmaalmi](https://medium.com/@ayoubelmaalmi) with 25K+ total views:
+
+**Popular Articles:**
+- Hexagonal Architecture in Java (10K+ views)
+- End-to-End Testing Strategies (8K+ views) 
+- Hadoop & Docker Integration (7K+ views)
+- MongoDB Sharding with Spring Boot (4K+ views)
 
 ### 🏆 Practice
 
