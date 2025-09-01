@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ayoub El Maalmi
 
-## Java Fullstack Developer | Research Assistant at Oracle
+## Java Fullstack Developer *
 
 ---
 
