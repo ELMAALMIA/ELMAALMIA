@@ -52,4 +52,4 @@ I write on Medium at [@ayoubelmaalmi](https://medium.com/@ayoubelmaalmi). I have
 - LinkedIn: [linkedin.com/in/ayoub-el-maalmi](https://linkedin.com/in/ayoub-el-maalmi)
 - Medium: [@ayoubelmaalmi](https://medium.com/@ayoubelmaalmi)
 - Email: [elmaalmiayoub@gmail.com](mailto:elmaalmiayoub@gmail.com)
-- Portfolio: [github.com/ELMAALMIA/portfolio-website]([https://github.com/ELMAALMIA/portfolio-website](https://elmaalmia.github.io/portfolio-website/)
+- Portfolio: [github.com/ELMAALMIA/portfolio-website]([https://github.com/ELMAALMIA/portfolio-website](https://elmaalmia.github.io/portfolio-website/))
