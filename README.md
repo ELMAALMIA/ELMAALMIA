@@ -49,7 +49,7 @@ I write on Medium at [@ayoubelmaalmi](https://medium.com/@ayoubelmaalmi). I have
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/ayoub-el-maalmi](https://linkedin.com/in/ayoub-el-maalmi)
+- LinkedIn: [linkedin.com/in/ayoub-el-maalmi]([https://linkedin.com/in/ayoub-el-maalmi](https://www.linkedin.com/in/ayoub-el-maalmi-8b274a1a1/))
 - Medium: [@ayoubelmaalmi](https://medium.com/@ayoubelmaalmi)
 - Email: [elmaalmiayoub@gmail.com](mailto:elmaalmiayoub@gmail.com)
-- Portfolio: [El Maalmi Ayoub](https://elmaalmia.github.io/portfolio-website/)
+- Portfolio: [El Maalmi Ayoub](ayoub.elmaalmi.com/)
